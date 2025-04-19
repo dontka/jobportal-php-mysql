@@ -27,6 +27,7 @@ Join us in making the Job Portal even better:
 1. Fork this repository and clone it to your local machine.
 2. Implement new features, improvements, or fixes.
 3. Submit a pull request detailing your changes.
+4. 
 
 
 ![Screenshot (53)](https://github.com/alfahad27/jobportal/assets/135044027/20c1d635-e2c7-4b25-a020-49a99db67d9a)
